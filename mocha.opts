@@ -1,0 +1,4 @@
+--file mocha-setup.js
+--file mocha-teardown.js
+--timeout 20000
+--slow 1500
